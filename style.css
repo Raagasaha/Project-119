@@ -1,0 +1,38 @@
+#your_sketch, #confidence, #sketch_to_be_drawn {
+font-size: 30px;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+
+
+body {
+    background-color: hotpink;
+}
+
+#score, #timer {
+font-size: 30px;
+color: black;
+font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+#heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+
+canvas{
+    border: 5px dotted white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+    
+}
